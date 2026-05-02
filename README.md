@@ -85,7 +85,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurjahan-shiah-5a9a291a1/) < Nurjahan Shiah >
 
 📧 [nurjahanahmed7@gmail.com](mailto:nurjahanahmed7@gmail.com)
-📧 [nshiah49@my.yorku.ca](mailto:nshiah49@my.yorku.ca)
+|| [nshiah49@my.yorku.ca](mailto:nshiah49@my.yorku.ca)
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1e3a8a&height=120&section=footer"/>
