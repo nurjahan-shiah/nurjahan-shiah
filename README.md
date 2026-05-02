@@ -72,31 +72,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=sqlite)
 
-## 🚀 Featured Projects
-
-### 🧠 LLM for Software Architecture & AIOps
-
-* AI pipeline generating **performance models from microservices metrics**
-* Integrated **Prometheus + OpenZipkin + Docker**
-* Achieved ~15% prediction error → improved system optimization
-
-### 🏋️ FITIVA - Fitness Tracking Platform
-
-* Full-stack app with **React + Node.js + MySQL**
-* Built REST APIs for tracking & analytics
-
-### 🛒 Atlas Auction - E-Commerce System
-
-* Built with **Java + Spring Boot (MVC)**
-* Real-time features + structured backend architecture
-
-### 🧑‍💼 Smart Recruiter (Hackathon - Backend Lead)
-- Led backend development for an **AI-assisted hiring automation system**
-- Built scalable workflows using **Microsoft Power Platform + Power Automate + Azure DevOps**
-- Designed API-driven pipeline to **automate candidate screening & job processing**
-- Reduced manual recruitment effort and improved processing efficiency
-- Collaborated cross-functionally in a **Microsoft + OPS hackathon environment**
-
 ---
 
 ## 🐍 Contribution Snake
@@ -110,7 +85,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurjahan-shiah-5a9a291a1/) < Nurjahan Shiah >
 
 📧 [nurjahanahmed7@gmail.com](mailto:nurjahanahmed7@gmail.com)
-
+📧 [nshiah49@my.yorku.ca](mailto:nshiah49@my.yorku.ca)
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1e3a8a&height=120&section=footer"/>
