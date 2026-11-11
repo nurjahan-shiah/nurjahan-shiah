@@ -1,8 +1,8 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <img width="100%" src="./assets/tech-universe.svg" alt="Nurjahan Ahmed Shiah — animated tech universe: Java, Python, SQL, FastAPI, React, Docker, Spring Boot, LLMs, RAG, Big Data, Microservices and .NET orbiting a glowing core"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+backends+that+scale.;I+break+AI+agents+so+they+can+be+secured.;12+microservices%2C+one+team+lead%3A+me.;Software+Engineering+%40+York+%E2%80%94+Big+Data+Stream;Open+to+SWE+%2F+ML+%2F+Backend+roles+%E2%80%94+2027" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+backends+that+scale.;I+turn+raw+data+into+pipelines+and+products.;12+microservices%2C+one+team+lead%3A+me.;Software+Engineering+%40+York+%E2%80%94+Big+Data+Stream;Open+to+SWE+%2F+ML+%2F+Backend+roles+%E2%80%94+2027" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -12,32 +12,23 @@
   <img src="https://komarev.com/ghpvc/?username=nurjahan-shiah&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<br/>
+<!-- ═══════════════════════ 3D STATS ═══════════════════════ -->
+<img width="100%" src="./assets/stats-3d.svg" alt="12 microservices designed and shipped as team lead · 2 engineering courses taught as a TA · 3 domains: government, research, academia · graduating 2027"/>
 
-<!-- ═══════════════════════ HOOK ═══════════════════════ -->
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h2>12</h2><sub>microservices designed<br/>& shipped as team lead</sub></td>
-    <td align="center" width="25%"><h2>4</h2><sub>real-world CVEs reproduced<br/>in a Docker sandbox</sub></td>
-    <td align="center" width="25%"><h2>2</h2><sub>engineering courses<br/>taught as a TA</sub></td>
-    <td align="center" width="25%"><h2>3</h2><sub>domains: government,<br/>research, academia</sub></td>
-  </tr>
-</table>
+<br/><br/>
 
-<br/>
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<img width="100%" src="./assets/h-about.svg" alt="About me"/>
 
-## 👋 Hi, I'm Shiah
+I'm **Shiah**, a **Software Engineering student (Big Data stream)** at the **Lassonde School of Engineering, York University**, graduating in **2027**.
 
-I'm a **Software Engineering student (Big Data stream)** at the **Lassonde School of Engineering, York University**, graduating in **2027**.
-
-I like the parts of software most people avoid: the **data pipeline behind the feature**, the **service boundaries behind the UI**, and the **security hole behind the AI agent**. I've shipped full-stack code in a government co-op, done LLM research, and led a team that took a 12-service platform from whiteboard to deployment.
+I like the parts of software most people avoid: the **data pipeline behind the feature**, the **service boundaries behind the UI**, and the **system design behind the demo**. I've shipped full-stack code in a government co-op, done LLM research, and led a team that took a 12-service platform from whiteboard to deployment.
 
 ```python
 class Shiah:
     role      = "Software Engineer — Backend · AI/LLM · Data"
     school    = "York University, Lassonde — SWE (Big Data), class of 2027"
-    building  = ["runtime security monitoring for AI agents (MCP)",
-                 "LLM-powered pipelines", "scalable microservices"]
+    building  = ["LLM-powered pipelines", "scalable microservices", "data platforms"]
     teaching  = ["ENG 1102", "ENG 2003"]          # Teaching Assistant
     strengths = ["system design", "leading teams", "explaining hard things simply"]
 
@@ -45,31 +36,22 @@ class Shiah:
         return "SWE / ML / Backend roles where I can own real systems"
 ```
 
----
+<!-- ═══════════════════════ COZY CORNER ═══════════════════════ -->
+<img width="100%" src="./assets/cozy-universe.svg" alt="A cozy night desk: an open book releasing a small galaxy of stars and code symbols toward a window full of space, a sleeping cat on a stack of books, a steaming mug, and a laptop typing code"/>
 
-## 🚀 Featured Work
+<!-- ═══════════════════════ ART ═══════════════════════ -->
+<img width="100%" src="./assets/art-mandala.svg" alt="Generative art: a mandala of rose curves drawing itself inside flowing aurora ribbons — code is my canvas"/>
+
+<br/>
+
+<!-- ═══════════════════════ FEATURED WORK ═══════════════════════ -->
+<img width="100%" src="./assets/h-work.svg" alt="Featured work"/>
 
 <!-- TODO: replace each "#" with the repo link (or delete the Code link if the repo is private) -->
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ MCPGuard-Runtime</h3>
-      <p><b>Runtime security monitoring for AI coding agents</b> · Research capstone, in progress</p>
-      <p>A monitor that sits between MCP clients (AI coding assistants) and MCP servers, watching JSON-RPC traffic for prompt injection, argument hijacking, and suspicious tool-call sequences.</p>
-      <ul>
-        <li>Reproduced <b>4 published CVEs</b> across 2 MCP servers in an isolated Docker sandbox, including remote code execution via direct and indirect injection</li>
-        <li>Showed that a patched server still carries the attack on the wire, which is the case for runtime detection</li>
-        <li>Built detection-rule analysis for argument anomalies and injection signals</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/AI%20Security-0f172a?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MCP-0f172a?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>📚 StudySynq</h3>
       <p><b>AI-powered study platform on 12 microservices</b> · Team lead</p>
       <p>A full platform with a Next.js frontend, 12 FastAPI services, a Delta Lake ETL pipeline, and LLM-driven course suggestions, deployed on Render and Vercel.</p>
@@ -117,9 +99,10 @@ class Shiah:
   </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<img width="100%" src="./assets/h-stack.svg" alt="Tech stack"/>
 
 <table>
   <tr>
@@ -152,25 +135,28 @@ class Shiah:
   </tr>
 </table>
 
----
+<br/>
 
-## 📈 GitHub Activity
+<!-- ═══════════════════════ ACTIVITY ═══════════════════════ -->
+<img width="100%" src="./assets/h-activity.svg" alt="GitHub activity"/>
+
+<!-- 3D contribution skyline: generated by .github/workflows/profile-3d.yml (run it once from the Actions tab) -->
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nurjahan-shiah&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nurjahan-shiah&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/nurjahan-shiah/nurjahan-shiah/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </p>
 
----
+<br/>
 
-## 🤝 Let's Talk
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+<img width="100%" src="./assets/h-contact.svg" alt="Let's talk"/>
 
 I'm looking for **SWE, backend, and ML/AI roles for 2027**. If you're building systems where reliability, data, and AI meet, I'd like to hear about it.
 
@@ -180,4 +166,4 @@ I'm looking for **SWE, backend, and ML/AI roles for 2027**. If you're building s
   <a href="mailto:nshiah49@my.yorku.ca"><img src="https://img.shields.io/badge/nshiah49%40my.yorku.ca-E31837?style=for-the-badge&logo=minutemailer&logoColor=white" alt="York email"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=140&section=footer"/>
+<img width="100%" src="./assets/footer-3d.svg" alt="Thanks for visiting"/>
