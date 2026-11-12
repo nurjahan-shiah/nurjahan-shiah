@@ -150,12 +150,5 @@ I'm looking for **SWE, backend, and ML/AI roles for 2027**. If you're building s
   <a href="mailto:nurjahanahmed7@gmail.com"><img src="https://img.shields.io/badge/nurjahanahmed7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email"/></a>
   <a href="mailto:nshiah49@my.yorku.ca"><img src="https://img.shields.io/badge/nshiah49%40my.yorku.ca-E31837?style=for-the-badge&logo=minutemailer&logoColor=white" alt="York email"/></a>
 </p>
-<!-- ═══════════════════════ COZY CORNER ═══════════════════════ -->
-<img width="100%" src="./assets/cozy-universe.svg" alt="A cozy night desk: an open book releasing a small galaxy of stars and code symbols toward a window full of space, a sleeping cat on a stack of books, a steaming mug, and a laptop typing code"/>
-
-<!-- ═══════════════════════ ART ═══════════════════════ -->
-<img width="100%" src="./assets/art-mandala.svg" alt="Generative art: a mandala of rose curves drawing itself inside flowing aurora ribbons — code is my canvas"/>
-
-<br/>
 
 <img width="100%" src="./assets/footer-3d.svg" alt="Thanks for visiting"/>
