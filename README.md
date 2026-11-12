@@ -150,5 +150,3 @@ I'm looking for **SWE, backend, and ML/AI roles for 2027**. If you're building s
   <a href="mailto:nurjahanahmed7@gmail.com"><img src="https://img.shields.io/badge/nurjahanahmed7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email"/></a>
   <a href="mailto:nshiah49@my.yorku.ca"><img src="https://img.shields.io/badge/nshiah49%40my.yorku.ca-E31837?style=for-the-badge&logo=minutemailer&logoColor=white" alt="York email"/></a>
 </p>
-
-<img width="100%" src="./assets/footer-3d.svg" alt="Thanks for visiting"/>
