@@ -15,30 +15,20 @@
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <img width="100%" src="./assets/h-about.svg" alt="About me"/>
 
-I'm **Shiah**, a **Software Engineering student (Big Data stream)** at the **Lassonde School of Engineering, York University**, graduating in **April 2027**.
+Hello, I'm **Shiah**, a **Software Engineering student (Big Data stream)** at the **Lassonde School of Engineering, York University**, graduating in **April 2027**.
 
 I like the parts of software most people avoid: the **data pipeline behind the feature**, the **service boundaries behind the UI**, and the **system design behind the demo**. I've shipped full-stack code in a government co-op, done LLM research, and led a team that took a 12-service platform from whiteboard to deployment.
 
 ```python
 class Shiah:
-    role      = "Software Engineer — Backend · AI/LLM · Data"
-    school    = "York University, Lassonde — SWE (Big Data), class of 2027"
-    building  = ["LLM-powered pipelines", "scalable microservices", "data platforms"]
-    teaching  = ["ENG 1102", "ENG 2003"]          # Teaching Assistant
-    strengths = ["system design", "leading teams", "explaining hard things simply"]
+    Interested role      = "Software Engineer/Developer - AI/LLM - Data based roles"
+    school    = "Lassonde School of Engineering, York University, SWE (Big Data), class of 2027"
+    building  = ["LLM-powered pipelines", "scalable microservices", "Data Platforms"]
+    Teaching-Assistant = ["ENG 1101", "ENG 1102", "ENG 2001", "ENG 2003"]
 
     def looking_for(self):
         return "SWE / ML / Backend roles where I can own real systems"
 ```
-
-<!-- ═══════════════════════ COZY CORNER ═══════════════════════ -->
-<img width="100%" src="./assets/cozy-universe.svg" alt="A cozy night desk: an open book releasing a small galaxy of stars and code symbols toward a window full of space, a sleeping cat on a stack of books, a steaming mug, and a laptop typing code"/>
-
-<!-- ═══════════════════════ ART ═══════════════════════ -->
-<img width="100%" src="./assets/art-mandala.svg" alt="Generative art: a mandala of rose curves drawing itself inside flowing aurora ribbons — code is my canvas"/>
-
-<br/>
-
 <!-- ═══════════════════════ FEATURED WORK ═══════════════════════ -->
 <img width="100%" src="./assets/h-work.svg" alt="Featured work"/>
 
@@ -151,7 +141,7 @@ class Shiah:
 <br/>
 
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
-<img width="100%" src="./assets/h-contact.svg" alt="Let's talk"/>
+<img width="100%" src="./assets/h-contact.svg" alt="Let's Chat"/>
 
 I'm looking for **SWE, backend, and ML/AI roles for 2027**. If you're building systems where reliability, data, and AI meet, I'd like to hear about it.
 
@@ -160,5 +150,12 @@ I'm looking for **SWE, backend, and ML/AI roles for 2027**. If you're building s
   <a href="mailto:nurjahanahmed7@gmail.com"><img src="https://img.shields.io/badge/nurjahanahmed7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email"/></a>
   <a href="mailto:nshiah49@my.yorku.ca"><img src="https://img.shields.io/badge/nshiah49%40my.yorku.ca-E31837?style=for-the-badge&logo=minutemailer&logoColor=white" alt="York email"/></a>
 </p>
+<!-- ═══════════════════════ COZY CORNER ═══════════════════════ -->
+<img width="100%" src="./assets/cozy-universe.svg" alt="A cozy night desk: an open book releasing a small galaxy of stars and code symbols toward a window full of space, a sleeping cat on a stack of books, a steaming mug, and a laptop typing code"/>
+
+<!-- ═══════════════════════ ART ═══════════════════════ -->
+<img width="100%" src="./assets/art-mandala.svg" alt="Generative art: a mandala of rose curves drawing itself inside flowing aurora ribbons — code is my canvas"/>
+
+<br/>
 
 <img width="100%" src="./assets/footer-3d.svg" alt="Thanks for visiting"/>
