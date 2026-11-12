@@ -2,7 +2,7 @@
 <img width="100%" src="./assets/tech-universe.svg" alt="Nurjahan Ahmed Shiah — animated tech universe: Java, Python, SQL, FastAPI, React, Docker, Spring Boot, LLMs, RAG, Big Data, Microservices and .NET orbiting a glowing core"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+backends+that+scale.;I+turn+raw+data+into+pipelines+and+products.;12+microservices%2C+one+team+lead%3A+me.;Software+Engineering+%40+York+%E2%80%94+Big+Data+Stream;Open+to+SWE+%2F+ML+%2F+Backend+roles+%E2%80%94+2027" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineering+%40+YorkU+%E2%80%94+Big+Data+Stream;Open+to+SWE+%2F+ML+%2F+Backend+roles+starting+2027" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -12,15 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=nurjahan-shiah&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<!-- ═══════════════════════ 3D STATS ═══════════════════════ -->
-<img width="100%" src="./assets/stats-3d.svg" alt="12 microservices designed and shipped as team lead · 2 engineering courses taught as a TA · 3 domains: government, research, academia · graduating 2027"/>
-
-<br/><br/>
-
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <img width="100%" src="./assets/h-about.svg" alt="About me"/>
 
-I'm **Shiah**, a **Software Engineering student (Big Data stream)** at the **Lassonde School of Engineering, York University**, graduating in **2027**.
+I'm **Shiah**, a **Software Engineering student (Big Data stream)** at the **Lassonde School of Engineering, York University**, graduating in **April 2027**.
 
 I like the parts of software most people avoid: the **data pipeline behind the feature**, the **service boundaries behind the UI**, and the **system design behind the demo**. I've shipped full-stack code in a government co-op, done LLM research, and led a team that took a 12-service platform from whiteboard to deployment.
 
